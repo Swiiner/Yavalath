@@ -1,0 +1,7 @@
+Yavalath rules are simple !
+To win you need to align 4 pawn in any direction (horizontal or vertical line, diagonal)
+
+3 mode to play
+Solo (player vs AI)
+Duel (player vs player)
+IA vs IA 
